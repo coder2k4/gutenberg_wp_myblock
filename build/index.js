@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=window.wp.blocks,t=window.ReactJSXRuntime;(0,e.registerBlockType)("gas/myblock",{edit:function(){return(0,t.jsx)("h1",{className:"admin_title",children:"Edit Title"})},save:function(){return(0,t.jsx)("h1",{className:"front_title",children:"Save Title"})}})})();
